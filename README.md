@@ -1055,3 +1055,8 @@ rewind
 boxoffice
 sky
 ```
+### SKY GLASS/STREAM - any kuck with thst versikn if tge EPG?
+
+kids cganneks are in the 200s nit 600s. shopping us in low 600s  But where us tge json fike fir the Sky Stream EPG, tge sane as Sky Glass EOG? Thank you 
+
+###
